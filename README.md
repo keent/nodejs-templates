@@ -1,3 +1,2 @@
-# NodeJS 12 projects from Scratch
-
+# NodeJS 12 project templates
 Browse each folder for the definitions
